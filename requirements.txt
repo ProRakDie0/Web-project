@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+httpx
+asyncio-nats-client
+sqlalchemy[asyncio]
+databases
+pydantic
+python-dotenv
